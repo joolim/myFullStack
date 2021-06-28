@@ -13,3 +13,4 @@ npx sequelize init to run and create the database. "Posts" table will be formed 
 create endpoints for API query for Get Posts and Post Posts for input. Posts using Postman for test and mock. If need for multi mock input, can use mySQL queries together with Mockaroo multi data generation ( json or raw )
 Create the endpoints in routes, where the APIs for Get and Posts. Use async and await for asynchoronous data queries and waiting for the inputs/outputs.
 Remember to export this module, router.
+#Day3: move to >client folder readme.md
